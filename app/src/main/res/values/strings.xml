@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyServiceLocation</string>
+    <string name="dialog_title">Warning</string>
+    <string name="dialog_msg">Please enable external storage permission for access to files</string>
+    <string name="start_tracking">Start tracking</string>
+    <string name="stop_tracking">Stop tacking</string>
+    <string name="show_history">Show History</string>
+    <string name="channel_id">location_notify_channel_id</string>
+    <string name="channel_name">Location settings changes</string>
+    <string name="location">Location</string>
+    <string name="enable_gps">Please enable GPS for start tracking</string>
+    <string name="location_rationale_title">Background location permissions</string>
+    <string name="location_rationale">We would like permission to your location even while the app is in the background so that we can provide you with a list of locations that you have been to. Please select \"Allow all the time\".</string>
+    <string name="got_it">Got it!</string>
+    <string name="no_thanks">No, thanks</string>
+
+    <string name="location_attribution_label">Access device location information</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
